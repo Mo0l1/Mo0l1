@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Mo0l1/Mo0l1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Hi I'm Mario! I am a Game Design graduate passionate about contributing to the full game development process. I have experience in taking projects from initial planning to digital prototypes and developing concepts from sketches into models. My focus was in monetization, game analytics, and user research.!--
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+Education:
+
+Game Design (BA)
+IU - International University, 
+2021 – 2026
+
+
+Contact:
+mariobannert96@gmail.com
