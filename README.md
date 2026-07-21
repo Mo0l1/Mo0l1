@@ -9,14 +9,15 @@ My focus was in monetization, game analytics, and user research!
 
 
 
-Education
 
+
+
+## Education
 Game Design (BA)<br>
 IU - International University,<br>
 2021 – 2026<br>
 
 
-Contact
-
+## Contact
 [E-Mail](mailto:mariobannert96@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/mario-bannert-950103267/)
