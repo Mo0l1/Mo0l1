@@ -18,5 +18,5 @@ IU - International University,<br>
 
 Contact
 
-[E-Mail](mariobannert96@gmail.com)<br>
+[E-Mail](mailto:mariobannert96@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/mario-bannert-950103267/)
