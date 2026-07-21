@@ -10,7 +10,7 @@ Game Design graduate (BA) with a study focus on monetization, game analytics and
 
 ## Education
 Game Design (BA)<br>
-IU - International University,2021 – 2026
+IU - International University, 2021 – 2026
 
 
 ## Contact
