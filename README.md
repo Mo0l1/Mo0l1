@@ -13,9 +13,8 @@ My focus was in monetization, game analytics, and user research!
 
 
 ## Education
-Game Design (BA)<br>
-IU - International University,<br>
-2021 – 2026<br>
+**Game Design (BA)**
+IU - International University,2021 – 2026
 
 
 ## Contact
