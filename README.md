@@ -2,7 +2,7 @@
 
 I am a Game Design graduate passionate about contributing to the full game development process. 
 I have experience in taking projects from initial planning to digital prototypes and developing concepts from sketches into models. 
-My focus was in monetization, game analytics, and user research.!
+My focus was in monetization, game analytics, and user research!
 
 
 
