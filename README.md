@@ -4,6 +4,7 @@ Game Design graduate (BA) with a study focus on monetization, game analytics and
 
 ## Game Design & Development
 - [[Haunted Brain] - Prototype](https://github.com/Mo0l1/Haunted-Brain---Digital-Prototype)
+- [[The Telepido] - 3D Model](https://github.com/Mo0l1/The-Telepido#3D-Model---The-Telepido)
 
 
 
