@@ -8,7 +8,7 @@ Game Design graduate (BA) with a study focus on monetization, game analytics and
 ### [The Telepido - 3D Model](https://github.com/Mo0l1/The-Telepido#3D-Model---The-Telepido)
 - 3D asset with modeling/texturing breakdown
 ## Bachelor Thesis
-### [Gambling-like Mechanics and Dark Patterns in Lootboxes](https://github.com/Mo0l1/Thesis---Lootboxes-in-Digital-Games)
+### [Gambling-like Mechanics and Dark Patterns in Lootboxes](https://github.com/Mo0l1/Gambling-like-Mechanics-and-Dark-Patterns-in-Lootboxes)
 -  Empirical survey (n=100) and statistical analysis (R) on lootbox mechanics and their effects on players
 
 
