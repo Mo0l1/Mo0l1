@@ -3,9 +3,9 @@
 Game Design graduate (BA) with a study focus on monetization, game analytics and user research with experience spanning the full game development process, from concept and prototyping to digital models. Currently expanding into data analytics, bringing that same analytical mindset to working with data at scale.
 
 ## Game Design & Development
-### [[Haunted Brain] - Prototype](https://github.com/Mo0l1/Haunted-Brain---Digital-Prototype)
+### [Haunted Brain - Prototype](https://github.com/Mo0l1/Haunted-Brain---Digital-Prototype)
 -  Gameplay video + itch.io build + Game Design Document
-### [[The Telepido] - 3D Model](https://github.com/Mo0l1/The-Telepido#3D-Model---The-Telepido)
+### [The Telepido - 3D Model](https://github.com/Mo0l1/The-Telepido#3D-Model---The-Telepido)
 - 3D asset with modeling/texturing breakdown
 ## Bachelor Thesis
 ### [Gambling-like Mechanics and Dark Patterns in Lootboxes](https://github.com/Mo0l1/Thesis---Lootboxes-in-Digital-Games)
