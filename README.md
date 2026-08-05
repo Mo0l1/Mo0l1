@@ -1,6 +1,6 @@
-## Hi there I'm Mario👋
+## Hi I'm Mario👋
 
-Game Design graduate (BA) with a study focus on monetization, game analytics and user research with experience spanning the full game development process, from concept and prototyping to digital models. Currently expanding into data analytics, bringing that same analytical mindset to working with data at scale.
+I am a Game Design graduate (BA) with a study focus on monetization, game analytics and user research with experience spanning the full game development process, from concept and prototyping to digital models. Currently expanding into data analytics, bringing that same analytical mindset to working with data at scale.
 
 ## Game Design & Development
 ### [Haunted Brain - Prototype](https://github.com/Mo0l1/Haunted-Brain---Digital-Prototype)
