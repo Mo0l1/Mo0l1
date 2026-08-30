@@ -1,10 +1,10 @@
 ## Hi I'm Mario
 
-I am a Game Design graduate (BA) with a study focus on monetization, game analytics and user research with experience spanning the full game development process, from concept and prototyping to digital models. Currently expanding into data analytics, bringing that same analytical mindset to working with data at scale.
+I am a Game Design graduate (BA) with a specialization on monetization, game analytics and user research and with experience spanning the full game development process, from concept and prototyping to digital models. I am currently expanding into data analytics, bringing that same analytical mindset to working with data at scale.
 
 ## Data Analytics
 ### [Cyclistic Case Study](https://github.com/Mo0l1/Case-Study)
-- SQL queries, Python notebook and report with actionable recommendations
+- SQL queries, Python notebook and report with recommendations for action
 ## Game Design & Development
 ### [Haunted Brain - Prototype](https://github.com/Mo0l1/Haunted-Brain---Digital-Prototype)
 -  Gameplay video + itch.io build + Game Design Document
