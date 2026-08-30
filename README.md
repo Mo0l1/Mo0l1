@@ -12,7 +12,7 @@ I am a Game Design graduate (BA) with a specialization on monetization, game ana
 - 3D asset with modeling/texturing breakdown
 ## Bachelor Thesis
 ### [Gambling-like Mechanics and Dark Patterns in Lootboxes](https://github.com/Mo0l1/Gambling-like-Mechanics-and-Dark-Patterns-in-Lootboxes)
--  Empirical survey (n=101) and statistical analysis (R) on lootbox mechanics and their effects on players
+-  Empirical survey (n=101) and statistical analysis (with R) on lootbox mechanics and their effects on players
 
 
 
